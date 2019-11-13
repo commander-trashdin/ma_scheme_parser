@@ -3,7 +3,7 @@
 #include <memory>
 #include <vector>
 #include <unordered_map>
-#include "/home/aun/SDA/shad-cpp0/scheme-tokenizer/tokenizer.h"
+#include "tokenizer.h"
 
 enum class Types { tType, cellType, numberType, symbolType, quoteType, dotType };
 
